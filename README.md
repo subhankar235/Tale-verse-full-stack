@@ -1,1 +1,1 @@
-# tale-verse-ai-blog-full-stack
+# tale-verse(full-stack)
